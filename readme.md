@@ -8,7 +8,7 @@
 
 Pomodoro-style timer for tracking focus on activities
 
-## Technologies and libraries used 
+## Technologies and libraries used
 
 - ReactJs with Typescript
 - Styled Component
@@ -19,12 +19,16 @@ Pomodoro-style timer for tracking focus on activities
 - React Hook Form, for creating controlled and uncontrolled input forms;
 - Zod e hookform/resolvers for input validation;
 
-## Getting started 
+## Getting started
 
 - Node 18.9.0
 - yarn ou npm i
 - yarn dev
 
 ## Thanks
+
 Thanks for reading.
 
+## Demo
+
+[I want to test the demo](<http://url/to/img.png](https://ageurdo.github.io/timmer-to-do/)>)
