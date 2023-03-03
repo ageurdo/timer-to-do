@@ -18,7 +18,7 @@ export const CountdownContainer = styled.div`
   display: flex;
   gap: 1rem;
 
-  @media (max-width: 720px) and (min-width: 500px) {
+  @media (max-width: 720px) and (min-width: 320px) {
     font-size: 5rem;
   }
 
