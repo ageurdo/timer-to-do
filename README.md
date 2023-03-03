@@ -1,9 +1,8 @@
-#Motivation
+# Motivation for development
 
 Create a timer that would help me control time to focus on work tasks.
 
-
-## Tecnologias e bibliotecas utilizadas 
+## Pomodoro-style timer for controlling focus on activities 
 
 - ReactJs with Typescript
 - Styled Component
