@@ -1,6 +1,6 @@
-# Motivation for development
+# Problem to be solved
 
-Create a timer that would help me control time to focus on work tasks.
+A timer that would help me control time to focus on work tasks.
 
 ## Pomodoro-style timer for controlling focus on activities 
 
