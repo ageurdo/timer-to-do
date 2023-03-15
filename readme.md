@@ -15,4 +15,4 @@ A timer that would help me control time to focus on work tasks.
 
 ## Demo
 [I want to test the demo](https://ageurdo.github.io/timmer-to-do/)
-![Click to view demo](src/assets/app.png)
+![Click to view demo](src/assets/Timmer_Pomodoro_Style.gif)
