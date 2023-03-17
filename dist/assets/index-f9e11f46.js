@@ -272,7 +272,7 @@ Error generating stack: `+o.message+`
       }
     }
   }
-`,F2="https://ageurdo.github.io/timmer-to-do/assets/logoIgnite-3cfba1f7.svg";function V2(){return Ye(z2,{children:[Q("img",{src:F2,alt:"Dois triangulos em cor verde, sobrepostos com transparência, e rotacionados em 45 graus"}),Ye("nav",{children:[Q(Pf,{to:"/",title:"Cronômetro",children:Q(W1,{size:24})}),Q(Pf,{to:"/history",title:"Histórico",children:Q(V1,{size:24})})]})]})}const b2=ut.div`
+`,F2="https://ageurdo.github.io/timer-to-do/assets/logoIgnite-3cfba1f7.svg";function V2(){return Ye(z2,{children:[Q("img",{src:F2,alt:"Dois triangulos em cor verde, sobrepostos com transparência, e rotacionados em 45 graus"}),Ye("nav",{children:[Q(Pf,{to:"/",title:"Cronômetro",children:Q(W1,{size:24})}),Q(Pf,{to:"/history",title:"Histórico",children:Q(V1,{size:24})})]})]})}const b2=ut.div`
   max-width: 74rem; // 74*16(1rem);
   height: calc(100vh - 10rem);
   margin: 5rem auto;
