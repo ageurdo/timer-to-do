@@ -14,5 +14,5 @@ A timer that would help me control time to focus on work tasks.
 - Zod e hookform/resolvers para validação dos inputs;
 
 ## Demo
-[Try to use](https://ageurdo.github.io/timmer-to-do/)</br>
+[Try to use](https://ageurdo.github.io/timer-to-do/)</br>
 ![Click to view demo](src/assets/Timmer_Pomodoro_Style.gif)
