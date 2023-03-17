@@ -2,7 +2,7 @@
 
 A timer that would help me control time to focus on work tasks.
 
-## Pomodoro-style timer for controlling focus on activities 
+## Pomodoro-style timer for controlling focus on activities
 
 - ReactJs with Typescript
 - Styled Component
@@ -14,5 +14,6 @@ A timer that would help me control time to focus on work tasks.
 - Zod e hookform/resolvers para validação dos inputs;
 
 ## Demo
+
 [Try to use](https://ageurdo.github.io/timer-to-do/)</br>
-![Click to view demo](src/assets/Timmer_Pomodoro_Style.gif)
+![Click to view demo](src/assets/timer_pomodoro_style.gif)

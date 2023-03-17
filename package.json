@@ -1,6 +1,6 @@
 {
-  "name": "ignitetimmer",
-  "homepage": "https://ageurdo.github.io/timmer-to-do/",
+  "name": "ignitetimer",
+  "homepage": "https://ageurdo.github.io/timer-to-do/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
