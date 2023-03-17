@@ -1,4 +1,4 @@
-# Problem to be solved
+# Problem to solve
 
 A timer that would help me control time to focus on work tasks.
 
