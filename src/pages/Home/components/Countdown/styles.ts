@@ -21,12 +21,12 @@ export const CountdownContainer = styled.div`
   margin: 0 80px;
   justify-content: space-between;
 
-  @media (max-width: 720px) and (min-width: 580px) {
+  @media (max-width: 720px) and (min-width: 420px) {
     font-size: 6rem;
   }
 
-  @media (max-width: 580px) {
-    font-size: 3rem;
+  @media (max-width: 420px) {
+    font-size: 4rem;
   }
 
   span {
