@@ -26,7 +26,7 @@ export const CountdownContainer = styled.div`
   }
 
   @media (max-width: 580px) {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   span {
