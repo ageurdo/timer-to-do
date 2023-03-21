@@ -137,12 +137,12 @@ Error generating stack: `+o.message+`
   margin: 0 80px;
   justify-content: space-between;
 
-  @media (max-width: 720px) and (min-width: 580px) {
+  @media (max-width: 720px) and (min-width: 420px) {
     font-size: 6rem;
   }
 
-  @media (max-width: 580px) {
-    font-size: 3rem;
+  @media (max-width: 420px) {
+    font-size: 4rem;
   }
 
   span {
@@ -281,6 +281,7 @@ Error generating stack: `+o.message+`
   }
 `,F2="https://ageurdo.github.io/timer-to-do/assets/logoIgnite-45e013d3.svg";function V2(){return Ye(z2,{children:[Q("img",{src:F2,alt:"Dois triangulos em cor verde, sobrepostos com transparência, e rotacionados em 45 graus"}),Ye("nav",{children:[Q(Pf,{to:"/",title:"Cronômetro",children:Q(W1,{size:24})}),Q(Pf,{to:"/history",title:"Histórico",children:Q(V1,{size:24})})]})]})}const b2=ut.div`
   max-width: 74rem; // 74*16(1rem);
+  min-width: 32rem; // 74*16(1rem);
   height: calc(100vh - 10rem);
   margin: 5rem auto;
   padding: 2.4rem;
