@@ -16,10 +16,17 @@ export const CountdownContainer = styled.div`
   color: ${(props) => props.theme['gray-100']};
 
   display: flex;
+  width: 100%;
   gap: 1rem;
+  margin: 0 80px;
+  justify-content: space-between;
 
-  @media (max-width: 720px) and (min-width: 320px) {
-    font-size: 5rem;
+  @media (max-width: 720px) and (min-width: 580px) {
+    font-size: 6rem;
+  }
+
+  @media (max-width: 580px) {
+    font-size: 4rem;
   }
 
   span {
